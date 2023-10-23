@@ -37,6 +37,6 @@ We welcome contributions from the open-source community! Whether you're a develo
 
 ## Contact
 
-If you have any questions or need assistance, please reach out to us at [27manavgandhi@gmail.com].
+If you have any questions or need assistance, please reach out to us at 27manavgandhi@gmail.com.
 
 Let's collaborate and make project management easier and more efficient with the Kanban Board! Your feedback and contributions are highly valued.
