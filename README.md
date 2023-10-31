@@ -46,7 +46,7 @@ Welcome to the Kanban Board project repository! This project is a feature-rich K
 
 ***
 ### :Live Demo
-(https://github.com/27manavgandhi/Kanban-Board/assets/77005766/0f56229d-0c7f-4f7a-bab7-7866bc99d205)
+https://github.com/27manavgandhi/Kanban-Board/assets/77005766/0f56229d-0c7f-4f7a-bab7-7866bc99d205
 
 
 ## Getting Started
