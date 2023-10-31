@@ -22,6 +22,33 @@ Welcome to the Kanban Board project repository! This project is a feature-rich K
 
 - **MongoDB:** MongoDB is the NoSQL database used to store and manage data for the Kanban board, providing a flexible and scalable data storage solution.
 
+- 
+---
+# Pages
+### :small_blue_diamond: Sign-in page 
+![1](https://github.com/27manavgandhi/Kanban-Board/assets/77005766/7b523a9d-fe13-46b7-8d98-7820dfeb1a91)
+
+***
+### :small_blue_diamond: Sign-up page
+![2](https://github.com/27manavgandhi/Kanban-Board/assets/77005766/9bbd79ea-695e-47b7-8f50-55dc616e2fce)
+
+***
+### :small_blue_diamond: Dashboard
+![3](https://github.com/27manavgandhi/Kanban-Board/assets/77005766/28b67c75-d852-42a2-82bd-38be6ff010d1)
+
+***
+### :small_blue_diamond: Add Task Form
+![4](https://github.com/27manavgandhi/Kanban-Board/assets/77005766/440ebf9d-0519-491e-9367-b6f7309304e1)
+
+***
+### :small_blue_diamond: Drag & Drop - change status
+![6](https://github.com/27manavgandhi/Kanban-Board/assets/77005766/7e014a08-5e71-4bd1-820a-cd9ab9823636)
+
+***
+### :Live Demo
+![7](https://github.com/27manavgandhi/Kanban-Board/assets/77005766/0f56229d-0c7f-4f7a-bab7-7866bc99d205)
+
+
 ## Getting Started
 
 To get started with the Kanban Board project, follow these steps:
