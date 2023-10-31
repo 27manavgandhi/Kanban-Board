@@ -25,11 +25,11 @@ Welcome to the Kanban Board project repository! This project is a feature-rich K
 - 
 ---
 # Pages
-### :small_blue_diamond: Sign-in page 
+### :small_blue_diamond: Sign-up page 
 ![1](https://github.com/27manavgandhi/Kanban-Board/assets/77005766/7b523a9d-fe13-46b7-8d98-7820dfeb1a91)
 
 ***
-### :small_blue_diamond: Sign-up page
+### :small_blue_diamond: Sign-in page
 ![2](https://github.com/27manavgandhi/Kanban-Board/assets/77005766/9bbd79ea-695e-47b7-8f50-55dc616e2fce)
 
 ***
@@ -46,7 +46,7 @@ Welcome to the Kanban Board project repository! This project is a feature-rich K
 
 ***
 ### :Live Demo
-![7](https://github.com/27manavgandhi/Kanban-Board/assets/77005766/0f56229d-0c7f-4f7a-bab7-7866bc99d205)
+(https://github.com/27manavgandhi/Kanban-Board/assets/77005766/0f56229d-0c7f-4f7a-bab7-7866bc99d205)
 
 
 ## Getting Started
